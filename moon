@@ -1,3 +1,4 @@
-sunday
-monday 
-tuesday 
+forward
+backward
+up
+down 
